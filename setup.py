@@ -14,14 +14,14 @@ AUTHOR_EMAIL = "chaudharytushar477@gmail.com"
 setup(
     name=SRC_REPO,
     version=__version__,
-    author=AUTHOR_USER_NAME,
-    author_email=AUTHOR_EMAIL,
+    author=tusharchaudharryy,
+    author_email=chaudharytushar477@gmail.com,
     description="A small Python package for CNN app (Kidney Disease Detection)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
+    url=f"https://github.com/tusharchaudharryy/Kidney-Disease-Deep-Learning-Model",
     project_urls={
-        "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
+        "Bug Tracker": f"https://github.com/tusharchaudharryy/Kidney-Disease-Deep-Learning-Model/issues",
     },
     package_dir={"": "src"},
     packages=find_packages(where="src"),
