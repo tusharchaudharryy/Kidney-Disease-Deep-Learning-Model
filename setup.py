@@ -14,8 +14,8 @@ AUTHOR_EMAIL = "chaudharytushar477@gmail.com"
 setup(
     name=SRC_REPO,
     version=__version__,
-    author=tusharchaudharryy,
-    author_email=chaudharytushar477@gmail.com,
+    author="tusharchaudharryy",
+    author_email= "chaudharytushar477@gmail.com",
     description="A small Python package for CNN app (Kidney Disease Detection)",
     long_description=long_description,
     long_description_content_type="text/markdown",
